@@ -1,0 +1,77 @@
+section[top]{
+    background-image: url(/data/zakatbg.png);
+    background-size: cover;
+    height: 500px;
+    margin-top: -140px;
+    padding: 140px 30px 30px;
+}
+h1{
+    font-family: anziano;
+    font-weight: 1000;
+}
+
+.btn-group{
+    width: 329px;
+}
+
+button.btn{
+    text-align:left;
+    padding: 10px 16px;
+    justify-content:space-between;
+    display: flex;
+}
+
+.dropdown-toggle::after{
+    content: unset;
+}
+
+.dropdown-item:not([excused]){
+    border-top: 1px solid rgb(224, 224, 224);
+}
+
+h2,h3,h4{
+    font-weight: 200;
+    font-family: gibson;
+    color: orange;
+}
+
+h3{
+    color:black;
+    font-size: 25px;;
+}
+
+h4{
+    margin-top: 0px;
+    font-family: Quadraat;
+    font-size: 23px;
+    margin-left: 40px;
+    position: relative;
+}
+
+h4::before,h4::after{
+    content: '';
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    border-radius: 7.5px;
+    background-color: #327994;
+    top: 9px;
+    left: -18px;   
+    display: inline-block;
+}
+
+h4::after{
+    left:-36px;
+}
+
+div[bar]{
+    height: 20px;
+    margin-bottom: 40px;
+}
+
+p[inside]{
+    font-family: 'Quadraat';
+}
+body{
+    background-color: white;
+}

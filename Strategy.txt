@@ -1,0 +1,12 @@
+According to past experience, It is immensly difficult to manage all aspects of a web app at the same time. Thus a strategic plan of action is required.
+
+First, I will determine the purpose and features of the app
+
+The goal is to base the HTML in a databse rather than real HTML. This will allow for the creation of a dynamic app that doesn't require me.
+
+The purpose is to build a small website and community around Br. Younoos's book and make $5K by presenting a mockup to Br Younoos on Friday. 
+
+It first of all needs to host the book.
+It second of all needs to allow for next content to be constantly generated and third for a discussion to naturally follow
+
+Don't build too much infastructure. I beleive that immensely. Don't you dare. Build a simple website that is static, based on the duplicated database, and does the freaking job. Later you can make new updates. I agree with that. THis will already take ten hours dumbass.
